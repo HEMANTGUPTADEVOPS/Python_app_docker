@@ -1,6 +1,7 @@
 # Python_app_docker
 
-We need to first make a base image and push it to our GCR or any repository that you want as storage for registry:
+We need to first make a base image and push it to our GCR or any repository that you want as storage for 
+registry:
 $cd Python_app_baseImage/
 $docker build -t asia.gcr.io/grand-ward-283704/ubuntubaseimage .
 
