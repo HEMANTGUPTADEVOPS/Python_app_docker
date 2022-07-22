@@ -20,3 +20,4 @@ k8s-helloworld/(This is our python code so you can change Dockerfile as per your
 
 Let me know if any issues and we can together contribute.
 
+Please test it once
