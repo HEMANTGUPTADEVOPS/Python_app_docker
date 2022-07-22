@@ -18,5 +18,6 @@ Now run your docker and test it will come up.
 Note:
 k8s-helloworld/(This is our python code so you can change Dockerfile as per your code of python)
 
-Let me know if any issues.
+Let me know if any issues and we can together contribute.
 
+Please test it once
